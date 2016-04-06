@@ -1,4 +1,4 @@
-#watir-browserstack
+# cucumber-watir-browserstack
 
 A sample project to run tests over BrowserStack Automate using Capybara and Watir Webdriver.
 
